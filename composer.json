@@ -1,0 +1,19 @@
+{
+    "name": "gtim/update-firebase-php",
+    "description": "update firebase",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gtim\\UpdateFirebasePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benjamin zazueta",
+            "email": "benjamin.zazueta@serviciosexrtenos.com.mx"
+        }
+    ],
+    "require": {
+        "google/auth": "^1.42"
+    }
+}
